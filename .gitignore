@@ -4,3 +4,4 @@ node_modules
 *.tmp
 test/*.tmp
 test/**/*.*
+config.json
