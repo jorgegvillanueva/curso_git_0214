@@ -2,6 +2,7 @@
 node_modules
 .env
 *.tmp
-test/*.tmp
+!test/*.tmp
 test/**/*.*
+# archivo de configuración
 config.json
