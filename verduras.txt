@@ -1,0 +1,4 @@
+lechuga 2
+zanahoria 3
+Puerro 4
+Cebolleta 5
