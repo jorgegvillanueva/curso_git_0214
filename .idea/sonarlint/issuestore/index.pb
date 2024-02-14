@@ -12,8 +12,6 @@
 config.json,c/5/c5fd3201494e82cf94e6a681cdc535b306134e1a
 A
 instrucciones.tmp,5/b/5b8e1ef4dced9c2c355d694cace1d4354edb29b6
-8
-verduras,6/e/6e484c6483baa23f6655fa490685295ae7709bf2
 <
 verduras.txt,1/b/1bec28d925b9f48ba13370633b6e090f4113efca
 9
