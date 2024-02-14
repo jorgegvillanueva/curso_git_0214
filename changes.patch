@@ -1,0 +1,60 @@
+diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+index 02b3ebc..4811c37 100644
+--- a/.idea/sonarlint/issuestore/index.pb
++++ b/.idea/sonarlint/issuestore/index.pb
+@@ -12,8 +12,6 @@
+ config.json,c/5/c5fd3201494e82cf94e6a681cdc535b306134e1a
+ A
+ instrucciones.tmp,5/b/5b8e1ef4dced9c2c355d694cace1d4354edb29b6
+-8
+-verduras,6/e/6e484c6483baa23f6655fa490685295ae7709bf2
+ <
+ verduras.txt,1/b/1bec28d925b9f48ba13370633b6e090f4113efca
+ 9
+diff --git a/bebidas.txt b/bebidas.txt
+index e72a757..9bd1eeb 100644
+--- a/bebidas.txt
++++ b/bebidas.txt
+@@ -1,4 +1,14 @@
+ Agua
+ Cerveza 1
+ Dos Colas 4
+-Zumo 5
++Agua con gas
++<<<<<<< HEAD
++Cambio 1 en rama dev y main
++Cambio 2 en rama dev y main
++Cambio 1 y 2 rebase
++=======
++Cambio 1 en rama main
++Cambio 2 en rama main
++Cambio 1 rebase main
++Cambio 2 rebase main
++>>>>>>> 49348d0 (cambio 2 rebase main)
+diff --git a/frescos.txt b/frescos.txt
+index 9fdce3f..fe0a342 100644
+--- a/frescos.txt
++++ b/frescos.txt
+@@ -1,4 +1,2 @@
+ Pescado
+ Doradas 1
+-Sardinas 2
+-4
+diff --git a/hogar.txt b/hogar.txt
+index ca8084b..1403963 100644
+--- a/hogar.txt
++++ b/hogar.txt
+@@ -1,3 +1,4 @@
+ Lejía 1
+ Escoba 2
+ Papel de cocina 3
++Cambio R1
+diff --git a/lacteos.txt b/lacteos.txt
+index 06e4b91..858b9d2 100644
+--- a/lacteos.txt
++++ b/lacteos.txt
+@@ -2,3 +2,4 @@ Leche
+ Queso 1
+ Yogurt 4
+ Quesitos 5
++Cambio R1
