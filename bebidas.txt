@@ -2,13 +2,6 @@ Agua
 Cerveza 1
 Dos Colas 4
 Agua con gas
-<<<<<<< HEAD
 Cambio 1 en rama dev y main
 Cambio 2 en rama dev y main
 Cambio 1 y 2 rebase
-=======
-Cambio 1 en rama main
-Cambio 2 en rama main
-Cambio 1 rebase main
-Cambio 2 rebase main
->>>>>>> 49348d0 (cambio 2 rebase main)
